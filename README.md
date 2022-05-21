@@ -1,5 +1,5 @@
 # Drebin
-Drebin malware analysis using machine learning and deep learning methods. [Raw data here.](https://www.sec.tu-bs.de/~danarp/drebin/)
+Drebin malware analysis using machine learning and deep learning methods. We provide vectorized data in ./balanced_dastaset and ./imbalanced_dataset etc. [Raw data here.](https://www.sec.tu-bs.de/~danarp/drebin/)
 
 # Introduction
 9 machine learning methods and multilayer perceptron(MLP) are used to detect a malware in Drebin dataset.
@@ -23,5 +23,5 @@ Drebin malware analysis using machine learning and deep learning methods. [Raw d
 
 Note:
 * 9 machine learning methods and MLP are implemented in **sklearn**.
-* 2_layer_neural_network/3_layer_neural_network/3_layer_neural_network are implemented exclusively in **numpy**. This implementation refers to [DeepLearn.ai by Andrew Ng.](https://github.com/enggen/Deep-Learning-Coursera)
+* 2_layer_neural_network/3_layer_neural_network/3_layer_neural_network are implemented exclusively in **numpy**(code in ./deeplearning). This implementation refers to [DeepLearn.ai by Andrew Ng.](https://github.com/enggen/Deep-Learning-Coursera)
 * To deal with classification with imbalanced classes, we try the tools provided by **imblearn**. In addition, focal loss is used with the same purpose.
