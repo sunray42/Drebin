@@ -4,7 +4,7 @@ Drebin malware analysis using machine learning and deep learning methods. We pro
 # Introduction
 9 machine learning methods and multilayer perceptron(MLP) are used to detect a malware in Drebin dataset.
 
-# Performance
+# Results
 |         method         | Precision | Recall | F1 score |
 | :--------------------: | --------- | ------ | -------- |
 | Logistic   regression  | 0.86      | 0.78   | 0.82     |
