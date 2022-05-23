@@ -23,5 +23,5 @@ Drebin malware analysis using machine learning and deep learning methods. We pro
 
 Note:
 * 9 machine learning methods and MLP are implemented in **sklearn**.
-* 2_layer_neural_network/3_layer_neural_network/3_layer_neural_network are implemented exclusively in **numpy**(code in ./deeplearning). This implementation refers to [DeepLearn.ai by Andrew Ng.](https://github.com/enggen/Deep-Learning-Coursera)
+* 2_layer_neural_network/3_layer_neural_network/3_layer_neural_network are implemented exclusively in **numpy**(code in ./deeplearning). This implementation refers to course [DeepLearning.ai](https://github.com/enggen/Deep-Learning-Coursera) by Andrew Ng.
 * To deal with classification with imbalanced classes, we try the tools provided by **imblearn**. In addition, focal loss is used with the same purpose.
