@@ -26,5 +26,5 @@ Note:
 * 2_layer_neural_network/3_layer_neural_network/3_layer_neural_network are implemented exclusively in **numpy**(code in ./deeplearning). This implementation refers to course [DeepLearning.ai](https://github.com/enggen/Deep-Learning-Coursera) by Andrew Ng.
 * To deal with classification with imbalanced classes, we try the tools provided by **imblearn**. In addition, focal loss is used with the same purpose.
 
-**更详细的实验结果与分析参见[drebin数据集测试与分析](./drebin数据集测试与分析_孙睿.pdf)**
+**更详细的实验结果与分析参见[drebin_dataset_analysis_sunrui.pdf](https://github.com/sunray-bupt/Drebin/blob/main/drebin_dataset_analysis_sunrui.pdf)**
 
